@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T12:17:28.572Z",
+  "generated_at": "2026-09-22T12:26:17.110Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -312,6 +312,19 @@
       "last_pushed_at": "2026-09-22T12:17:28.419Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:1204": {
+      "kind": "problem",
+      "id": "1204",
+      "title": "ReLU Activation",
+      "difficulty": "easy",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1204",
+      "path": "problems/1204-relu-activation",
+      "first_solved_at": "2026-09-22T12:26:16.972Z",
+      "last_pushed_at": "2026-09-22T12:26:16.972Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
