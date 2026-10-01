@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 41 problems · 0 labs · 0 math
+**42** solved · 42 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-10-01 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-09-18 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-18 | [solution](problems/0195-matrix-determinant-trace) |
+| [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-10-01 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [ReLU Activation](https://www.deep-ml.com/problems/1204) | easy | 2026-09-22 | [solution](problems/1204-relu-activation) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-18 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Scalar Multiply (a * x)](https://www.deep-ml.com/problems/1203) | easy | 2026-09-22 | [solution](problems/1203-scalar-multiply-a-x) |
