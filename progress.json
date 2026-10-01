@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:26:43.153Z",
+  "generated_at": "2026-10-01T20:29:12.645Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -520,6 +520,19 @@
       "last_pushed_at": "2026-10-01T20:26:42.292Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-10-01T20:29:11.755Z",
+      "last_pushed_at": "2026-10-01T20:29:11.755Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
