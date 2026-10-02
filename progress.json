@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:49:53.542Z",
+  "generated_at": "2026-10-02T07:02:52.442Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -583,6 +583,19 @@
       "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
       "first_solved_at": "2026-10-01T20:49:52.539Z",
       "last_pushed_at": "2026-10-01T20:49:52.539Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-10-02T07:02:50.933Z",
+      "last_pushed_at": "2026-10-02T07:02:50.933Z",
       "language": "python",
       "lines": 5
     }
