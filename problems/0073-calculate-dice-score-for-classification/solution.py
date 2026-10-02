@@ -17,9 +17,9 @@ def dice_score(y_true, y_pred):
 	for i in range(len(y_pred)): 
 		if y_true[i]:
 			b += 1
-
-	#a = sum([i for i in range(len(y_pred)) if y_pred[i]])
-	#b = sum([i for i in range(len(y_true)) if y_true[i]])
+	inter = sum([1 for i in range(len(y_pred)) if y_pred[i] == y_true[i] and y_pred[i]])
+	a = sum([1 for i in range(len(y_pred)) if y_pred[i]])
+	b = sum([1 for i in range(len(y_true)) if y_true[i]])
 
 
 
