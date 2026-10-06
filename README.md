@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 49 problems · 0 labs · 0 math
+**50** solved · 50 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-09-19 | [solution](problems/1151-first-n-fibonacci-numbers) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-28 | [solution](problems/0147-gelu-activation-function) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-09-18 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
+| [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2026-10-06 | [solution](problems/0188-gradient-checkpointing) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-09-28 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-09-28 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-18 | [solution](problems/0042-implement-relu-activation-function) |
